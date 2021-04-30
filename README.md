@@ -2,12 +2,11 @@
 ```
 Algoritmo del algoritmo genético 
 ```
+![algoritmo](https://codingornot.com/wp-content/uploads/2017/05/algoritmo-genetico.png )
 
 
+**Algoritmo genético en ejecuccion**
 ![Algortimo en ejecucion](https://github.com/Eduardishion/AlgoritmoGeneticoYOperadores/blob/master/dist/grafico2.jpg)
-
-https://github.com/Eduardishion/AlgoritmoGeneticoYOperadores/blob/master/dist/grafico2.jpg
-https://codingornot.com/wp-content/uploads/2017/05/algoritmo-genetico.png 
 
 ```
 En este genetico se programado, los operadores mas comunes y operaciones que conforman un algoritmo genetico 
