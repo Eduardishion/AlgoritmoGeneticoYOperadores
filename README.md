@@ -3,6 +3,10 @@
 Algoritmo del algoritmo genético 
 ```
 
+
+![Algortimo en ejecucion](https://github.com/Eduardishion/AlgoritmoGeneticoYOperadores/blob/master/dist/grafico2.jpg)
+
+https://github.com/Eduardishion/AlgoritmoGeneticoYOperadores/blob/master/dist/grafico2.jpg
 https://codingornot.com/wp-content/uploads/2017/05/algoritmo-genetico.png 
 
 ```
